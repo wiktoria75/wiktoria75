@@ -27,10 +27,14 @@ A dynamic event management solution crafted to provide an immersive experience f
 
 Technologies: JAVA, Spring, JavaScript, React, Bootstrap, Material UI, HTML, CSS, Sass
 
+Our project is already deployed, you can see it here: 
+ 1. [Backoffice](http://wildeventmanager.com/) - login: admin@wildeventmanager.com | password: WildEvent2023
+ 2. [Client app](http://wildevent.com.pl/) - designed for mobile devices
+
 Repositories:
-    -  API: [WildEwent-api]()
-    -  Backoffice app: [WildEvent-manager]()
-    -  Client app*: [WildEvent-client]()
+    -  API: [WildEwent-api](https://github.com/wiktoria75/wild-event-api)
+    -  Backoffice app: [WildEvent-manager](https://github.com/wiktoria75/wild-event-backoffice)
+    -  Client app: [WildEvent-client](https://github.com/wiktoria75/wild-event-client-app)
 
 ### React for cause:
 Our primary objective for developing this application was to raise awareness about environmental sustainability and provide practical ideas on how to reduce plastic consumption in our day-to-day activities. Our goal was to develop an application that provides variety of interactive features that would engage users and encourage them to explore the app further. To achieve this, we focused on developing a user-friendly design that is well-balanced in terms of functionality and aesthetics. 
